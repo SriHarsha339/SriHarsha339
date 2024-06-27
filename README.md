@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gowtham Sri Harsha</h1>
 <h3 align="center">I am an AI Enthusiast with a passion for Graphic Design, an aspiring Web-App Developer, and currently pursuing studies in Computer Science & Business Systems.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif](https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif)"
 - 🔭 I’m currently working on **ITBi-RVR&JC APP UI&UX Design**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SriHarsha339&label=Profile%20views&color=0e75b6&style=flat" alt="SriHarsha339" /> </p>
 - 🌱 I’m currently learning **Flutter, Artificial Intelligence**
